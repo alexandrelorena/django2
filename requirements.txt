@@ -11,9 +11,9 @@ gunicorn==21.2.0
 idna==3.6
 mysqlclient==2.2.1
 packaging==23.2
-pillow==10.2.0
+pillow
 pipreqs==0.4.13
-psycopg2-binary==2.9.9
+psycopg2-binary
 requests==2.31.0
 soupsieve==2.5
 sqlparse==0.4.4
